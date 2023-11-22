@@ -1,0 +1,11 @@
+.ourDelicious{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-inline: auto;
+    background-color: #fbf8e3;
+    padding: 50px;
+    border-radius: 40px;
+    color:#5f2513;
+
+}
